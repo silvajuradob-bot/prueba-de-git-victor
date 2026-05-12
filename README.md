@@ -9,5 +9,6 @@ git add .
 git status sale en verde
 git commit -m "algun nombre"
 git log --online 
- git remote add origin https://github.com/nombreDeUsuario/nobreRepositorio
- git push .u origin main 
+git remote add origin https://github.com/nombreDeUsuario/nobreRepositorio
+git push .u origin main 
+vamos a probar la subida  de el proyecto de proyecto.py
